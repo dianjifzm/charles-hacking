@@ -7,7 +7,7 @@ cat >> qFep.java <<EOF
 package com.xk72.charles;
 public final class qFep {
 	public static boolean gtOW() { return true; }
-	public static String SkgP() { return "hello myself"; }
+	public static String SkgP() { return "myself"; }
 	public static String gtOW(String name, String key) { return null; }
 }
 EOF
